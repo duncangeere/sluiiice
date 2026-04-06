@@ -18,3 +18,5 @@ A waterfall for iii grids, inspired by dam removal
 - use update_scale(new_root, new_scale) in diii to change the scale and root note: e.g. update_scale("C#3", "minor")
 
 - use update_bpm(new_bpm) in diii to change the bpm: e.g. update_bpm(240)
+
+Visit the [discussion thread on lines](https://llllllll.co/t/sluiiice-a-waterfall-for-iii-grids/74393).
